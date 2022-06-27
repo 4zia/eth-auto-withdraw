@@ -6,6 +6,6 @@
 - `VAULT_WALLET_ADDRESS` — the wallet address to which the withdrawn ETH should be sent.
 - `DEPOSIT_WALLET_PRIVATE_KEY` — the private key of your deposit wallet.
 
-2. Run either `npm install` or `yarn install`.
+2. Run either `npm install` or `yarn install`. npm install --save babel-runtime
 
 3. Run `node index.js` to start the bot.
